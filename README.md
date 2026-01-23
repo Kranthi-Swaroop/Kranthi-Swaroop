@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am the kind of person who gets curious about how things work and ends up building them instead of just watching videos about them 😄**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1ups9vVuyDpVkd84UlM9Qc5s5im1TJUUy/view?usp=sharing](https://drive.google.com/file/d/1ups9vVuyDpVkd84UlM9Qc5s5im1TJUUy/view?usp=sharing)**
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge)]([https://drive.google.com/file/d/1ups9vVuyDpVkd84UlM9Qc5s5im1TJUUy/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

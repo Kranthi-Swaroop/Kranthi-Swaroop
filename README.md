@@ -2,7 +2,7 @@
 # Hi 👋, I'm B Kranthi Swaroop
 
 ### A passionate Python developer
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR5OHQzaHFqb3czMHU2ZDhtYTU1OHBhNTk0dnJ3cTNkZGlqNHB4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR5OHQzaHFqb3czMHU2ZDhtYTU1OHBhNTk0dnJ3cTNkZGlqNHB4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kranthi-Swaroop&label=Profile views&color=0e75b6&style=flat" alt="Kranthi-Swaroop" /> </p>
 
